@@ -1,7 +1,6 @@
 <!-- footer area start-->
         <footer>
             <div class="footer-area">
-                <p>© Copyright <?php echo date('Y') ?>. All right reserved to Nikhil Bhalerao. </p>
             </div>
         </footer>
         <!-- footer area end-->
